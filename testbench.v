@@ -1,4 +1,4 @@
-`include "Proj2.v"
+`include "design.v"
 
 // Code your testbench here
 // or browse Examples
